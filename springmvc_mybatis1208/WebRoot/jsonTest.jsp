@@ -44,5 +44,7 @@ function responseJson(){
 <body>
 <input type="button" onclick="requestJson()" value="请求json，输出是json"/>
 <input type="button" onclick="responseJson()" value="请求key/value，输出是json"/>
+<!-- git 测试 -->
+<p>git test!!!!</p>
 </body>
 </html>
